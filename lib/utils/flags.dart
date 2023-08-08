@@ -1,0 +1,8 @@
+class Flags {
+  static const String uk =
+      'https://s3-alpha-sig.figma.com/img/e04f/bd23/d7f578f7ebcd1f95227e7fa1758ead2a?Expires=1691971200&Signature=hWA8ApB7RRz7wSoQDzQ-P8Z9TK5xWCMfgn25JIQatJ6b9bbKqIMUh-Wu0eX8lJICV~3hfPrwzL0XD2QBZFiULSHLeIQZsfeSR0Mb1ViZLhwlian1wOEcf6qTqKJvc169cq8FGbLFTFTo~hfT8qNlvYIZsKSXcM3FCLI37wOqnO~NmPLs4PsbH0R3dAuGkaA6hXriIgczwUmol3hwr1tp4yYRzNq8r77OUovHcO1EQJ55dB7AafuOt~dyTTuIjTRyGhfHeTurJCzlRa3CCBQaQBbjmvub4Bi4GPFfFgGq5kvavzBjJPiLDRYlXqu6gmviodcB0RPTfQhUXwaYAoTpEg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
+  static const String us =
+      'https://s3-alpha-sig.figma.com/img/2614/2a28/37085ac1be3fcb1c142862237ffa97c1?Expires=1691971200&Signature=nKa6veytOd5Y~5NN66kchUZ9wVbUZyIfNcDGdWKHcYVdFLroq39mHz~~PXQl67wl7uhef22ULaOTPJl6zoJtRDC7nTUs0AYUmZqp3GoWmYz-JvgkZ656UEpnb8bm4Z3lO64a2rDA9w7RlmsFtDWM5WI559M5EbuBJg1IB3cF~EO4cUPou2uBTQSrpgaim-6c~4rN-z6ESj-UJ8JIG~KXfZHFVzZJyevv3Tq9y546zO5CZQ3YWgN4lR30e592nWgEQ9D0S03flAfMqpqgBrsNTbxF2vVtswjhJCE6iOd6pUn2EGA75gLXWKZzomk5W8XVnsb6cQe5uWjia6-RgBsLqQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
+  static const String canada =
+      'https://s3-alpha-sig.figma.com/img/7137/ba56/b617367d2581234215ba3b57cffcaacc?Expires=1691971200&Signature=M9eZgRrj6mtN5haI~6W6znymm2LApMIGpFVv~aETpI6RK-dBZDM5HCNrvzkSwxj2ySuBeMxH1SXLncZTXk09GdLtycOWDl2z8d4~bpRycVNtfLsS9UGdn8B4qCQ927NVM1M-yFw03URa9hly5uuQM1Cr2-lIDNZnxeyagjqf2We0Bxx3rWiSsXrcEbaR14KPzpQ2FFTx9cYda1KmAH4ts51G4TX-MFKeAOGuooUsOh4t5i~8qHKcMRQ-rwnGTc~NiwqI6DHQHx2Gv0ODHAC9wHE7sJ83E4iI6eCdSxEChXzysYg4kg2JssdlEWcaIdvQw5q1VCq0GJYfENMwQasxyQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
+}
